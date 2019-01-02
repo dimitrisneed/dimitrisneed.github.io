@@ -376,15 +376,17 @@ external_links :
       name : Giant Bomb
       url: https://www.giantbomb.com/profile/axersia/
     - link :
+      name : GameFAQs
+      url: https://gamefaqs.gamespot.com/community/Axersia
+    - link :
       name : The Backloggery
       url: https://backloggery.com/axersia 
     - link :
-      name : Disqus
-      url: https://disqus.com/by/dimitrisneed/
-    - link :
       name : Reddit
       url: https://www.reddit.com/user/Axersia
-
+    - link :
+      name : Disqus
+      url: https://disqus.com/by/dimitrisneed/
 
 # These are the Bootstrap settings. These Bootstrap settings will control both
 # the theme and responsive settings of this site.
