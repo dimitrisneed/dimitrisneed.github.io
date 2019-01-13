@@ -2,14 +2,14 @@
 	<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 		<channel>
 			<title>Dimitri.info</title>
-			<link>http://100.115.92.203:4000</link>
+			<link>http://100.115.92.196:4000</link>
 			<description>Blog</description>
 			<language>en-us</language>
-			<pubDate>Sun, 23 Dec 2018 15:01:53 CET</pubDate>
-			<lastBuildDate>Sun, 23 Dec 2018 15:01:53 CET</lastBuildDate>
+			<pubDate>Sun, 13 Jan 2019 17:02:01 CET</pubDate>
+			<lastBuildDate>Sun, 13 Jan 2019 17:02:01 CET</lastBuildDate>
 			<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 			<generator>http://github.com/thedereck/gh-pages-blog</generator>
-			<atom:link href="http://100.115.92.203:4000/rss.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://100.115.92.196:4000/rss.xml" rel="self" type="application/rss+xml" />
 
 			
 
@@ -24,14 +24,107 @@
 			
 				<item>
 					
+						<title>Review: Fidor Bank Germany</title>
+					
+					<link>http://100.115.92.196:4000/reviews/2019/01/13/Review-fidor-bank-germany.html</link>
+
+					
+
+					<pubDate>Sun, 13 Jan 2019 00:00:00 CET</pubDate>
+					<guid>http://100.115.92.196:4000/reviews/2019/01/13/Review-fidor-bank-germany</guid>
+
+					
+						<category><![CDATA[ reviews ]]></category>
+					
+
+					<description><![CDATA[  ]]></description>
+					<content:encoded><![CDATA[ <h4></h4><p>There’s quite a few posts out there about people’s experiences with the Germany-based pan-European online bank <a href="https://n26.com/en-eu/">N26</a>, but not as many on Fidor, another German online bank that accepts account holders from outside Germany, and actually predates N26. Not surprising, as the website only supports the German language. This post will serve as a review based on my personal experiences with the bank as well as a guide for anyone else interested in opening an account.</p>
+
+<p>Keep in mind, this review only concerns Fidor Bank Germany hosted at <a href="https://www.fidor.de/">fidor.de</a>, and not Fidor Bank UK hosted at <a href="https://www.fidorbank.uk/">fidorbank.uk</a>.</p>
+
+<h3 id="registration">Registration</h3>
+<p>Unlike most banks, the registration process actually distinguishes between first and middle names. As someone who uses their middle name, this is always a bit tricky for me. If only one field is provided, I try to get away with using just my middle name, but this is always changed to both names after actual ID verification has taken place. The only exception has been N26, but I can’t think of any other online payment service that’s accepted just my middle name.</p>
+
+<p>I was unsure how to proceed, as the first name field was listed as “Vorname (Rufname),” with “Rufname” meaning “calling name.” I.e., the name you’d actually use on a day-to-day basis. The field for middle names was called “Weitere Vornames” (other names). In the end I put my first name in the “Vorname” field and my middle name in the “Weitere” field, out of fear of having my names reversed otherwise. Unfortunately, this does mean all outbound transfers are listed under “Firstname Lastname,” but it did seem to be the right choice regardless.</p>
+
+<p>Upon requesting a MasterCard, my naming options were “First Last,” “First M. Last,” and “Middle Last.” Other configurations were not available.</p>
+
+<p>Kudos to Fidor for taking into account those of us who use their middle names, and allowing me to order a card with just my middle name listed on it. If anyone feels like registering with their names reversed in order to get their middle name listed on their account as well, please leave a comment telling me how it went.</p>
+
+<p>After registering, you’re required to enter your address. This shows that the site isn’t entirely built for users outside of Germany, as I was unable to enter my postal code.</p>
+
+<p><img src="/img/fidor_plz.png" alt="Postal Code Error" /></p>
+
+<p>A German PLZ (postleitzahl) consists of 5 digits, whereas a Dutch postal code consists of 4 digits and 2 letters. In the end, I had to enter 4 digits in the “PLZ” field, and add the letters to the “Ort” (Place) field.</p>
+
+<p><img src="/img/fidor_address.png" alt="Address" /></p>
+
+<p>Not an issue whatsoever as it all just gets printed onto an envelope anyway, but certainly something that could scare off new users.</p>
+
+<h3 id="verification">Verification</h3>
+<p>Then came the video verification process. The service agents all spoke excellent English, but nonetheless it was a bit of a hassle. The first time I tried I wasn’t receiving any texts, so I tried again the next day. Then the service agent forgot to speak one of their lines and had to disconnect me, as the entire process had to be restarted from scratch. I also had trouble getting my perfectly-decent phone to focus in on my ID well enough for them to take a picture. Y’know, the usual stuff if you’ve ever dealt with IDNow, Postident, etc. But eventually I managed to get through and had my account activated.</p>
+
+<p>Eager to receive my SmartCard, I ordered one immediately, only to be denied as I hadn’t proven my creditworthiness yet. Creditworthiness can be proven by using the account for a minimum of 3 months, or can be expedited through Boniversum if you live in Germany.</p>
+
+<p>Unfortunately proving my creditworthiness was a bit of a Catch-22 situation. I didn’t wanna use Fidor as my primary bank account without a Maestro/MasterCard SmartCard for POS purchases, but I wouldn’t be able to get that SmartCard without using Fidor as my primary account.</p>
+
+<p>In the next 3 months I tried to prove my creditworthiness by setting up a few direct debits, and transferring over money from my main account to pay for them. I’d also use the Digital MasterCard here and there. In the end, this proved unsuccessful, as I still got denied after 3 months.</p>
+
+<p>Then I got a new job, and I figured this would be the right time to give them my Fidor account as that’d surely do the trick. Sure enough, after a couple months of having my salary deposited onto the account, I was finally able to order the SmartCard.</p>
+
+<p>I should note that if you live in a country with high MasterCard acceptance, there’s also the option to order the physical Debit MasterCard for 15 EUR a year and use that while proving your creditworthiness.</p>
+
+<p><img src="/img/fidor_cards.png" alt="Fidor Cards" /></p>
+
+<h3 id="the-smartcard">The SmartCard</h3>
+<p>What many don’t realize about the Fidor SmartCard, is that while the Maestro portion is a debit card, the MasterCard portion is technically a proper credit card with a 1000 euro limit. Debit MasterCards are ubiquitous these days, but they have to be online connected at point-of-sale, and have a lower acceptance rate. Many experience difficulties renting cars, for example. The fact that Fidor will actually give you a proper offline MasterCard is a major boon for the service.</p>
+
+<p>That said, I’ve heard that hybrid cards have their own issues when dealing with outdated POS systems, which doesn’t surprise me as I’ve rarely been able to use my European PIN-protected creditcards abroad. The big exception has been South Korea, where all I had to do was hand over my card, draw a a scribble on a dot-matrix screen, and somehow that was enough to buy a pizza. Unfortunately I haven’t had the chance to use my Fidor SmartCard abroad yet, so I can only comment on my experiences using it locally in the Netherlands.</p>
+
+<p>It did take some getting used to. Upon inserting it into the slot, I have to choose between MasterCard and Maestro, with MasterCard being the default. This means I always need find the “Menu Select” button first, but since all POS hardware in this country is provided by only one or two companies, you get used to it very quick.</p>
+
+<p>I’ve not been able to get contactless payments to work at all and was unable to find an option to toggle it on/off in my account. It’s possible contactless payments only work with MasterCard payments. This means that using the SmartCard is several times slower than grabbing one of my Maestro cards.</p>
+
+<p>One thing that has to be mentioned, is that while the Digital MasterCard does not charge a foreign currency conversion fee, the SmartCard does. My Digital MasterCard was immediately deactivated upon activating the SmartCard, but the option to request a new one remains available in my account. I just haven’t tried it myself out of fear of deactivating my SmartCard in the process.</p>
+
+<h3 id="the-website">The Website</h3>
+<p><a href="/img/fidor_cashmanager.png" target="_blank"><img width="280" align="right" style="margin: 10px" src="/img/fidor_cashmanager.png" /></a>The website is, of course, in German. Since their UK counterpart uses the same website but in English, it seems to be a conscious decision on Fidor’s part to not provide an official translation on the German website. Luckily Google Translate has come a long way and is perfectly capable of translating the site should you need to.</p>
+
+<p>The interface is a bit cluttered and has a very “upselly” feel to it. Upon logging in you’re immediately confronted with precious metals, cryptocurrency, insurance, loans, forex, etc. It’s not too big an issue though, as I mostly just click on the “Umsätze” tab to view my transactions, which is much cleaner than the “Cash Manager” default page.</p>
+
+<p>Overall though, as someone who doesn’t make use of most of the features Fidor provides, I do prefer the more minimalist interface of N26.</p>
+
+<h3 id="the-app">The App</h3>
+<p>Getting the app proved to be a bit problematic. It’s advertised everywhere on the Fidor site, but was listed as “incompatible” with my device when accessed from my Dutch Google account, and was not listed on the Google Play app.</p>
+
+<p><img src="/img/fidor_app.png" alt="Fidor App" /></p>
+
+<p>I had to login to a VPN service, pick a German server, and register a completely new Google account in order for it to be registered as German by Google. This was the only way to safely install the APK from the app store.</p>
+
+<p>This is a major oversight on Fidor’s part, and completely unnecessary if done intentionally. All it does is push their international users to grab a potentially unsafe APK off the web.</p>
+
+<p>The app itself works a bit differently from what I’m used to. Upon logging for the first time, it asks you to setup a 4-digit PIN, and whether you want to stay logged in for 1 minute, 1 day, or 14 days. Naturally I picked one minute, assuming the PIN would be used to login again. Turns out that your full password is used on every login, while the PIN is only used to make transactions.</p>
+
+<p>I was a bit taken aback by this at first, but on second thought it doesn’t really matter. If anyone manages to access my phone, I’d have bigger things to worry about than them being able to view my transactions.</p>
+
+<p>The interface is standard fare for banking apps these days, and the app should also support contactless payments, which I haven’t been able to test out myself due to lack of an NFC-capable phone.</p>
+
+<p>Overall I’m quite happy with the bank and currently use it as my primary account. I’ve only had to deal with customer service once in order to reset my FIN (Fidor Identification Number) that is used to change your personal information, but this could be done by sending a PDF form through email, and within 24h I had a new FIN. So no complaints there as of yet.</p>
+
+<p>Are there any major reasons to use it over the more well-known N26 Bank which is likely easier to use due to official English support? For most people, probably not, though the issuing of a proper offline MasterCard can be a deciding factor for some.</p>
+ ]]></content:encoded>
+				</item>
+			
+				<item>
+					
 						<title>Protect your phone in case of loss</title>
 					
-					<link>http://100.115.92.203:4000/guides/2018/12/23/Protect-your-phone-in-case-off-loss.html</link>
+					<link>http://100.115.92.196:4000/guides/2018/12/23/Protect-your-phone-in-case-off-loss.html</link>
 
 					
 
 					<pubDate>Sun, 23 Dec 2018 00:00:00 CET</pubDate>
-					<guid>http://100.115.92.203:4000/guides/2018/12/23/Protect-your-phone-in-case-off-loss</guid>
+					<guid>http://100.115.92.196:4000/guides/2018/12/23/Protect-your-phone-in-case-off-loss</guid>
 
 					
 						<category><![CDATA[ guides ]]></category>
@@ -48,10 +141,7 @@
 <p>This probably goes without saying, but yeah, lock your phone. Not all locks are created equal, but any lock is better than none at all. The most secure method is to create a password with a minimum length of 10 characters, consisting of uppercase letters, lowercase letters, numbers, and special characters. Of course, most of us don’t want to type in such a long and complex password just to reply to a text, so it’s best used as a backup to biometric authentication. Just go with whatever method you’re most comfortable with and works best in your situation. Let’s say you’re the type of person to fall asleep in public places with your phone in your hand, then fingerprint scanning probably isn’t for you.</p>
 
 <h3 id="but-dont-use-smart-lock">But don’t use Smart Lock</h3>
-<p>While fingerprint authentication has its faults, like the one scenario described above, it’s still far more secure than Google’s “Smart Lock” offerings.<br />
-Face recognition is getting better but can still be fooled with a picture. If you like this method, consider using iris scanning instead.<br />
-With GPS-based authentication, your phone will still be unlocked outside the house.<br />
-Using a Bluetooth device isn’t very secure at all unless somehow this device is permanently attached to your body, and even then your phone can still be unlocked from a distance. All in all, avoid these.</p>
+<p>While fingerprint authentication has its faults, like the one scenario described above, it’s still far more secure than Google’s “Smart Lock” offerings. Face recognition is getting better but can still be fooled with a picture. Consider using iris scanning instead if you like this method. GPS-based smart lock is notoriously buggy and has far too large a range to provide any real protection. Keeping your phone unlocked while paired with a bluetooth device isn’t very secure when on the go, but it’s at least a safer alternative to GPS when at home. All in all though, avoid these if you can.</p>
 
 <h3 id="pin-your-sim">PIN your SIM</h3>
 <p>As a result of the many ways to lock one’s phone, the traditional SIM PIN is often neglected. Case in point, when my girlfriend got a new phone, she popped in her SIM, typed in the default 4-digit code, and never bothered with it again.</p>
@@ -74,13 +164,13 @@ Using a Bluetooth device isn’t very secure at all unless somehow this device i
 <h3 id="encrypt-your-phone">Encrypt your phone</h3>
 <p>Most phones come pre-encrypted these days, so this isn’t something you’ll likely have to worry about. In case your phone didn’t, consider doing so, but keep in mind the process could take an hour.</p>
 
-<p>With your phone encrypted, you will now also have to option to use Secure Startup, which requires a passcode to boot up Android. The concept is the same as the above. Without unlocking the phone, you can be certain no other source will be able to read your data.</p>
+<p>With your phone encrypted, you will now also have the option to use Secure Startup, which requires a passcode to boot up Android. The concept is the same as the above. Without unlocking the phone, you can be certain no other source will be able to read your data.</p>
 
-<h3 id="setup-find-my-device">Setup Find My Device</h3>
+<h3 id="set-up-find-my-device">Set up Find My Device</h3>
 <p>If somehow you neglected to activate it during the initial setup of your phone, be sure to do so now. Find My Device will allow you to view your phone’s GPS location, ring it, leave a message, and even put up a call-back button. If all else fails, you can wipe your phone remotely when it becomes clear that the new owner has no intention of returning it and you’re not able to track it down yourself.</p>
 
 <h3 id="leave-a-custom-message-on-the-lock-screen">Leave a custom message on the lock screen</h3>
-<p>This is perhaps the easiest and fastest way to get your phone back. Simply leave a permanent message on the lock screen with your contact information. I’ve seen this method used quite often on the phones we get in at work, but people always make the mistake of using their real name and email address. Any information a person has on you can potentially help in accessing your phone or accounts. It’s better to set up a secondary email specifically for this purpose.</p>
+<p>This is perhaps the easiest and fastest way to get your phone back. Simply leave a permanent message on the lock screen with your contact information. I’ve seen this method used quite often on the phones we get in at work, but people always make the mistake of using their real name and email address. Any information a person has on you can potentially help in gaining access to your phone and accounts, or pose as you when attempting to use social engineering. It’s better to set up a secondary email specifically for this purpose.</p>
 
 <h3 id="be-prepared-to-lose-everything">Be prepared to lose everything</h3>
 <p>While your phone might fall into hands of some good samaritans, it’s better to assume it’ll get datamined and/or sold. So at some point you’re gonna have to accept the phone is lost, and if possible, wipe it and render it unusable.</p>
